@@ -107,8 +107,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdNaimRipto&theme=tokyonight" />
   </a>
+
+  <div style="width: 200px;"></div>
   
-  <img height="400" src="https://github-readme-stats.vercel.app/api?username=MdNaimRipto&show_icons=true&count_private=true&theme=tokyonight" />
+  <img height="500" src="https://github-readme-stats.vercel.app/api?username=MdNaimRipto&show_icons=true&count_private=true&theme=tokyonight" />
 </div>
 
 
