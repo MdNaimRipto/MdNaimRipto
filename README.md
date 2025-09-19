@@ -31,6 +31,21 @@
   ### Frontend
   
   <div style="display:flex; gap:200px;">
+    <style>
+            .container {
+              display: flex;
+              width: 100%;
+              height: 300px;
+              background-color: #222;
+              color: white;
+              justify-content: center;
+              align-items: center;
+              font-family: sans-serif;
+            }
+            h1 {
+              font-size: 2.5em;
+            }
+    </style>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
