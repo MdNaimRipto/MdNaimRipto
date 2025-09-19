@@ -87,6 +87,8 @@
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=40" height="35"/>
 </p>
 
+<br/>
+
 - 🔭 I’m currently working on Frontend AI Integration and advanced animated UI designing. 
 - 📫 How to reach me: mdnaimurrahman681@gmail.com
 
