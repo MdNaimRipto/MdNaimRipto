@@ -99,7 +99,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNaimRipto&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNaimRipto&theme=tokyonight&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdNaimRipto&show_icons=true&count_private=true&theme=tokyonight)
 
