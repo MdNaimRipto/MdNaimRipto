@@ -30,7 +30,7 @@
 
 <!-- Frontend -->
 ### 🎨 Frontend Development  
-<p align="left" style="display: flex; flex-direction: column;">
+<p align="left" style="display: flex;">
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> 
     <br/>
@@ -42,13 +42,16 @@
     <span>CSS</span>
   </span>
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> <br/>
+    <span>JavaScript</span>  
   </span>
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> TypeScript  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> <br/>
+    <span>TypeScript</span>  
   </span>
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React.js  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> <br/>
+    <span>React.js</span>  
   </span>
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/> Next.js  
