@@ -101,9 +101,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNaimRipto&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdNaimRipto&show_icons=true&count_private=true&theme=tokyonight)
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdNaimRipto&theme=tokyonight" />
+  </a>
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MdNaimRipto&show_icons=true&count_private=true&theme=tokyonight" />
+</div>
+
 
 
 
