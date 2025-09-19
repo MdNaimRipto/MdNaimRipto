@@ -30,46 +30,39 @@
 
 <!-- Frontend -->
 ### 🎨 Frontend Development  
-<p>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> 
-<!--     <br/> -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
+  
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
     <span>HTML</span>
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> 
-    <br/>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
     <span>CSS</span>
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> <br/>
-    <span>JavaScript</span>  
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> <br/>
-    <span>TypeScript</span>  
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> <br/>
-    <span>React.js</span>  
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/> Next.js  
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30"/> Redux Toolkit  
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30"/>
-    Tailwind CSS  
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30"/> Material UI  
-  </span>
-  <span>🎨 Shadcn</span>
-  <span>✨ Framer Motion</span>
-  <span>🎬 GSAP</span>
-</p>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+    <span>JavaScript</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+    <span>TypeScript</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+    <span>React.js</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+    <span>Next.js</span>
+  </div>
+
+</div>
 
 <!-- Backend -->
 ### ⚙️ Backend Development  
