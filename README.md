@@ -26,4 +26,20 @@
 
 - 🎮 Love to play games as a Casual Gamer
 
-Skills: HTML / CSS / JavaScript / TypeScript / React.js / Next.js / Redux Toolkit / Tailwind CSS / Material UI / Shadcn / Framer Motion / GSAP / Node.js / Express / WebSockets / Socket.io / JWT / NextAuth.js / MongoDB / Mongoose / PostgreSQL / SQL / Prisma / Redis / Docker / Kubernetes / GCP / AWS / GitHub / GitLab / Figma / Canva / AI Integration / Flutter / React Native
+## 🛠️ Skills
+
+## 🛠️ Skills
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+
