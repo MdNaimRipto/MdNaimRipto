@@ -30,6 +30,7 @@
 
 <!-- Frontend -->
 ### 🎨 Frontend Development  
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
   
   <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
@@ -64,53 +65,6 @@
 
 </div>
 
-<!-- Backend -->
-### ⚙️ Backend Development  
-<p align="left" style="display: flex; flex-direction: column;">
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> Node.js</span>  
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30"/> Express</span>  
-  <span>🔌 WebSockets</span>  
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="30"/> Socket.io</span>  
-  <span>🔑 JWT</span>  
-  <span>🔒 NextAuth.js</span>  
-</p>
-
-<!-- Databases -->
-### 🗄️ Databases & ORM  
-<p align="left" style="display: flex; flex-direction: column;">
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB</span>  
-  <span>📦 Mongoose</span>  
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL</span>  
-  <span>🗂️ SQL</span>  
-  <span>⚡ Prisma</span>  
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30"/> Redis</span>  
-</p>
-
-<!-- DevOps -->
-### ☁️ DevOps & Cloud  
-<p align="left" style="display: flex; flex-direction: column;">
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> Docker</span>  
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/> Kubernetes</span>  
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30"/> GCP</span>  
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/> AWS</span>  
-</p>
-
-<!-- Tools -->
-### 🛠️ Tools & Design  
-<p align="left" style="display: flex; flex-direction: column;">
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub</span>  
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30"/> GitLab</span>  
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/> Figma</span>  
-  <span>🎨 Canva</span>  
-  <span>🤖 AI Integration</span>  
-</p>
-
-<!-- Mobile -->
-### 📱 Cross-Platform Development *(Exploring)*  
-<p align="left" style="display: flex; flex-direction: column;">
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30"/> Flutter</span>  
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React Native</span>  
-</p>
 
 
 
