@@ -89,7 +89,7 @@
 - 🔭 I’m currently working on Frontend AI Integration and advanced animated UI designing. 
 - 📫 How to reach me: mdnaimurrahman681@gmail.com
 
-  
+  <br/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdNaimRipto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/naimur-rahman2001/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdnaimur.rahman.50309)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MdNaimRipto)
 
