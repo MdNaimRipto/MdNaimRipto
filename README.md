@@ -32,7 +32,9 @@
 ### 🎨 Frontend Development  
 <p align="left" style="display: flex; flex-direction: column;">
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> 
+    <br/>
+    <span>HTML</span>
   </span>
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS  
