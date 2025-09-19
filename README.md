@@ -91,7 +91,7 @@
 
 <br/>
 
-### 🔗 Social Links
+## 🔗 Social Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MdNaimRipto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naimur-rahman2001/)
@@ -100,7 +100,7 @@
 
 <br/>
 
-### 📊 Statistics
+## 📊 Statistics
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
