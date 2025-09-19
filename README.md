@@ -103,12 +103,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdNaimRipto&show_icons=true&count_private=true&theme=tokyonight)
 
-<div style="display: flex; gap: 50px; flex-wrap: wrap;">
+<div style="display: flex; gap: 50px; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdNaimRipto&theme=tokyonight" />
   </a>
-
-  <br/>
   
   <img height="320" src="https://github-readme-stats.vercel.app/api?username=MdNaimRipto&show_icons=true&count_private=true&theme=tokyonight" />
 </div>
