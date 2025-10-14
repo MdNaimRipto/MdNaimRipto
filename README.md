@@ -1,17 +1,13 @@
 ![I am GitHub Readme Generator's creator](https://i.ibb.co.com/Df6JHhFF/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png)
 
-### Hi there 👋, 👋 Hi, I'm MD Naimur Rahman
+### Hi there 👋, I'm MD Naimur Rahman
 #### 🚀 Full-Stack (MERN) Developer | 💻 Web Builder 
 
 ### My Professional Identity
 
-- 💻 I’m a Full-time MERN Stack Developer with experience in building scalable web apps.
+- 💻 I’m a Full-time Full Stack Developer with experience in building scalable web apps.
 
 - 🌐 Skilled in React.js, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, Material UI and more.
-
-- 📱 Also exploring App Development (React Native & Flutter basics).
-
-- 🖥️ Interested in expanding into Desktop App Development in the future.
 
 ### Passion & Goals
 
