@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/Df6JHhFF/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png)
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5616AQF476Af-OCp5A/profile-displaybackgroundimage-shrink_350_1400/B56Zlr4Ti9KIAY-/0/1758451548036?e=1763596800&v=beta&t=-mgzz0Cq_d22016pycov8Io2mJ_rDQy5wRQ5S97EY9M)
 
 ### Hi there 👋, I'm MD Naimur Rahman
 #### 🚀 Full-Stack (MERN) Developer | 💻 Web Builder 
