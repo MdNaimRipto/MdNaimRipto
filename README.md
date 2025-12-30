@@ -108,6 +108,7 @@
   </a>
   
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=MdNaimRipto&show_icons=true&count_private=true&theme=tokyonight" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </div>
 
 
