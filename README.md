@@ -102,6 +102,8 @@
 <br/>
 
 ## 📊 Statistics
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MdNaimRipto&theme=tokyonight-duo&short_numbers=true)](https://git.io/streak-stats)
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MdNaimRipto&theme=tokyonight-duo&short_numbers=true" alt="GitHub Streak" /></a>
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
