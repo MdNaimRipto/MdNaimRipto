@@ -93,12 +93,6 @@
   <img src="https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white&logoWidth=40" height="35"/>
 </p>
 
-### Mobile
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&logoWidth=40" height="35"/>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=40" height="35"/>
-</p>
-
 <br/>
 
 - 🔭 I’m currently working on Frontend AI Integration and advanced animated UI designing. 
