@@ -102,12 +102,11 @@
 <br/>
 
 ## 📊 Statistics
-
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MdNaimRipto&theme=tokyonight-duo&short_numbers=true" alt="GitHub Streak" /></a>
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdNaimRipto&theme=tokyonight&layout=donut" />
-  </a> -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MdNaimRipto&theme=tokyonight-duo&short_numbers=true" alt="GitHub Streak" /></a>
+  </a>
   
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=MdNaimRipto&show_icons=true&count_private=true&theme=tokyonight" />
 </div>
